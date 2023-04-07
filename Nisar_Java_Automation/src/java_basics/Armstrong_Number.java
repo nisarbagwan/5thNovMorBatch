@@ -15,10 +15,10 @@ public static void main (String [] args) {
     add=add+(reaminder*reaminder*reaminder);
 }
    if (number==add) {
-  System.out.println ("given number is armstrong number");
+  System.out.println ("Given number is Armstrong number");
   }
   else {
-  System.out.println("given number is not armstrong number");
+  System.out.println("Given number is not Armstrong number");
 }
 }
 }
