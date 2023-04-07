@@ -17,10 +17,10 @@ while (add>0) {
 	add=add/10;
 	}
 if (result==num) {
-	System.out.println("Given number is aramstrong:"+ result);
+	System.out.println("number is aramstrong:"+ result);
 }
 else {
-	System.out.println("Given number is not aramstrong:"+ result);
+	System.out.println("number is not aramstrong:"+ result);
 	}
 }
 	
